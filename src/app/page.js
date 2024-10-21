@@ -1,5 +1,5 @@
 import LaunchList from '@/app/LaunchList';
-import ScrollToTop from '@/app/ScrollToTop'; // Fixed casing to match the file name
+import ScrollToTop from '@/app/scrolltotop'; 
 
 export default function Home() {
   return (
